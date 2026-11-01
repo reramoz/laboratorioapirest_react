@@ -191,7 +191,7 @@ Al finalizar el laboratorio, el estudiante deberá ser capaz de:
 
 ## Observaciones
 
-Espacio para registrar dificultades encontradas, soluciones implementadas, mejoras realizadas o aprendizajes obtenidos durante el desarrollo del laboratorio.
+Se completaron con éxito todas las funcionalidades requeridas en la guía de laboratorio. Se estructuró la comunicación con la API desde src/services/productService.js para desacoplar la lógica de datos de la interfaz de usuario. Al realizar operaciones de creación (POST), actualización (PUT) y eliminación (DELETE), se manejaron adecuadamente los estados en React para reflejar los cambios en la interfaz de forma inmediata, comprendiendo la naturaleza simulada de la API DummyJSON..
 
 ---
 
